@@ -5,7 +5,7 @@ The goal of this program is to get a population of 6, 8
 bit binary strings to 0.
 
 The fittest chromosome gets to breed twice, with the 
-worst not being unable to breed.  
+worst being unable to breed.  
 
 Random chance of mutation occurs once per generation, 
 ensuring a solution does not get trapped on a local
